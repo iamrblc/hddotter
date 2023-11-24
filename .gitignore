@@ -1,0 +1,19 @@
+# Ignore folders
+# foldername/
+
+#Ignore specific file types
+*.lufr
+*.nirs
+*.snirf
+*.ply
+*.json
+*.csv
+*.prepro
+*.nii
+*.mshs
+*.rmap
+*.jac
+*.injac
+*.mp4
+*.jpg
+
