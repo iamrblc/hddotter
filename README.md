@@ -1,2 +1,3 @@
-# High Density Diffuse Optical Tomography Topological Evaluation Routine
+![](imgs/hddotter_logo.png)
+# HDDOTTER
 HD-DOT imaging pipelines for Matlab and Python
