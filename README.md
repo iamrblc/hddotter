@@ -12,4 +12,4 @@ Very rough outline:
 6a. Do stats as you wish.
 6b. Convert everything to fMRI-compatible format.
 7. Do stats as you wish.
-8. Adobt a dog.
+8. Adopt a dog.
