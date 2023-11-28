@@ -9,7 +9,7 @@ Very rough outline:
 
 4. Mix steps 1-2-3 in Python using the MNE toolbox.
 5. Preprocess your data. (Partially done. Partially I know what to do.)
-6a. Do stats as you wish.
-6b. Convert everything to fMRI-compatible format.
-7. Do stats as you wish.
-8. Adopt a dog.
+6. (optional) Do stats as you wish.
+7. Convert everything to fMRI-compatible format.
+8. (mandatory) Do stats as you wish.
+9. Adopt a dog.
