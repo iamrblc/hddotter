@@ -16,4 +16,5 @@
 *.injac
 *.mp4
 *.jpg
-
+*.nii
+*.nii.gz
