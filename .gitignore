@@ -20,4 +20,4 @@
 *.nii.gz
 
 #Include the Barney template .nii files
-!templates/barney/*.nii
+!data/templates/barney/*.nii
