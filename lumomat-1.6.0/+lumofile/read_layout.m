@@ -63,7 +63,7 @@ function [layout] = read_layout(fn, varargin)
 %
 
 if exist(fn, 'file') ~= 2
-  error('Layour file (%s) cannot be found\n', fn)
+  error('Layout file (%s) cannot be found\n', fn)
 end
 
 try
