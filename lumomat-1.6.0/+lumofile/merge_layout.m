@@ -17,7 +17,7 @@ function lumo_merged_fn = merge_layout(lumo_in_fn, layout_file)
 % Notes:
 %
 % The purpose of this function is to merge an appropriate layout file into a LUMO recording
-% which lacks a layout. This may occurr since some versions of the LUMOview software do not
+% which lacks a layout. This may occur since some versions of the LUMOview software do not
 % automically embed the layout file. 
 %
 % If the intent is instead to merge a subject specific layout file, this is better achieved
