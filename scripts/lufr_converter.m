@@ -14,8 +14,10 @@ snirfPath = '../data/snirf';
 nirsPath = '../data/nirs';
 
 % Assemble file paths
-lufrFile = fullfile(dataPath, [subject '.lufr']);
-layoutFile = fullfile(layoutPath, [subject '.json']);
+%lufrFile = fullfile(dataPath, [subject '.lufr']);
+lufrFile = '/home/rblc/ELTE/hddotter/data/lufr/odin.lufr';
+%layoutFile = fullfile(layoutPath, [subject '.json']);
+layoutFile = '/home/rblc/ELTE/hddotter/data/locations/odin.json';
 snirfFile = fullfile(snirfPath, [subject '.snirf']);
 nirsFile = fullfile(nirsPath, [subject '.nirs']);
 

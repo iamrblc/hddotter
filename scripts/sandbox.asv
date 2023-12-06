@@ -1,0 +1,8 @@
+layoutFile = '/home/rblc/ELTE/hddotter/data/locations/odin.json';
+lufrFile = '/home/rblc/ELTE/hddotter/data/lufr/odin.lufr';
+csvFILE
+layoutData = lumofile.read_layout(layoutFile);
+
+
+
+data = LumoData(lufrFile, 'file', layoutFile);
