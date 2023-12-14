@@ -27,8 +27,9 @@ layoutFile = fullfile(rawPath, [subject '.json']);
 snirfFile = fullfile(snirfPath, [subject '.snirf']);
 % nirsFile = fullfile(nirsPath, [subject '.nirs']); % Possibly not needed
 
-% Load data from .lufr and overwrite default layout with own. 
-data = LumoData(lufrFile, 'layout', layoutFile);
+% Load data from .lufr and overwrite default layout with own.
+%data = LumoData(lufrFile); % without json file
+data = LumoData(lufrFile, 'layout', layoutFile); % with json file
 % Convert data to snirf
 data.write_SNIRF(snirfFile);
 
