@@ -18,6 +18,7 @@
 *.jpg
 *.nii
 *.nii.gz
+*.pdf
 
 #Include the Barney template .nii files (Not needed any more but this is the syntax how to do it.)
 #!data/templates/barney/*.nii
